@@ -1,0 +1,7 @@
+.Back{
+    background: pink;
+    opacity: 0.8;
+    background-image: url(../../../assets/back.webp);
+    background-attachment: fixed;
+    filter:brightness(90%);
+}
